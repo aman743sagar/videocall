@@ -9,7 +9,7 @@ export const AuthContext=createContext({})
 
 
 const client =axios.create({
-    baseURL:'http://localhost:8000/api/v1/users'
+    baseURL:'https://videocall-i6i5.onrender.com'
 })
 
 
