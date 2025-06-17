@@ -334,7 +334,7 @@ import StopScreenShareIcon from '@mui/icons-material/StopScreenShare';
 import ChatIcon from '@mui/icons-material/Chat';
 
 
-const server_url = "http://localhost:8000"
+const server_url = "https://videocall-i6i5.onrender.com"
 
 const connections = {};
 
